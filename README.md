@@ -4,4 +4,5 @@
 - Download Android Studio and Setup
 - Id, Xpath & Accessibility ID locators in App
 - handle Mobile popups
+- Drag & Drop on elements in the app
 
