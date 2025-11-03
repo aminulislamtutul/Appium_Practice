@@ -3,5 +3,6 @@
 - Install & Setup Appium
 - Download Android Studio and Set Up
 - Locator strategies (ID, XPath, Accessibility ID, ClassName, etc.)
+- Click, SendKeys, GetText, Clear
 - Tap, Long press, Swipe, Scroll, Drag & Drop
 
