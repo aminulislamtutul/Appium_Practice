@@ -6,4 +6,6 @@
 - Click, SendKeys, GetText, Clear
 - Tap, Long press, Swipe, Scroll, Drag & Drop
 - Handling alerts, popups, and permissions
+- Scrolling using UiScrollable
+- TouchAction
 
