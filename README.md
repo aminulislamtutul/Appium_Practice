@@ -8,4 +8,5 @@
 - Handling alerts, popups, and permissions
 - Scrolling using UiScrollable
 - TouchAction
+- MultiTouchAction
 
