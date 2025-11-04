@@ -9,4 +9,5 @@
 - Scrolling using UiScrollable
 - TouchAction
 - MultiTouchAction
+- POM
 
