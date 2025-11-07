@@ -12,5 +12,6 @@
 - MultiTouchAction
 - POM
 - Project
+- Project 2
   
 
