@@ -3,6 +3,7 @@
 - Install & Setup Appium
 - Download Android Studio and Set Up
 - Set up Virtual Device
+- Download and Setup Apps (Install, Uninstall)
 - Locator strategies (ID, XPath, Accessibility ID, ClassName, etc.)
 - Click, SendKeys, GetText, Clear
 - Tap, Long press, Swipe, Scroll, Drag & Drop
@@ -12,6 +13,7 @@
 - MultiTouchAction
 - POM
 - Project
+  
 
 
 
